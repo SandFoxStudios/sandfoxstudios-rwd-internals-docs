@@ -18,6 +18,4 @@ LINK ///// TO THE DOCUMENTAIONS :  é" sandfoxstudios-rwd-internals-docs "é ///
 
 
  - History :
-								 ===> 30 / 03 / 2017 : Launch of the [ BÊTAS ]        V 0.0.1 , , , , , , .  
-
- - 
+								 										===> 30 / 03 / 2017 : Launch of the [ BÊTAS ]        V 0.0.1 , , , , , , .       
