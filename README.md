@@ -10,11 +10,11 @@ VERSIONS : VERSION V0.0.1 RewindEngine documentations v0.0.1 [  BÊTAS ]
 
  - LINK ///// TO THE DOCUMENTAIONS :  é" sandfoxstudios-rwd-internals-docs "é //////////////////////////// ///////
 	
-	      URL N ° 1 : //////////  é" sandfoxstudios-rwd-internals-docs.sarasaber.com "é /////// 
+	      		URL N ° 1 : //////////  é" https://sandfoxstudios-rwd-internals-docs.sarasaber.com "é /////// 
 
 		OR 
 
-	  URL N ° 2 : /////// é" https://sandfoxstudios-rwd-internals-docs.000webhostapp.com/ "é //////
+	  	URL N ° 2 : /////// é" https://sandfoxstudios-rwd-internals-docs.000webhostapp.com/ "é //////
 
 
  - History :
