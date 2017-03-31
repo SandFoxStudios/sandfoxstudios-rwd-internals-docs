@@ -26,4 +26,4 @@ VERSIONS : VERSION V0.0.1 RewindEngine documentations v0.0.1 [  BÊTAS ]
  
  
  
- 				===> 30 / 03 / 2017 : Launch of the [ BÊTAS ]        V 0.0.1 , , , , , , .       
+ 				===> 30 / 03 / 2017 : Launch of the [ BÊTAS ]        V 0.0.1 , , , , , , .                     
