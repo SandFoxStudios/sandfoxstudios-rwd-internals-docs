@@ -1,0 +1,30 @@
+Links To The Documentation Software Official Website And Link : 
+
+-- Official Page : 
+https://www.helpndoc.com/
+
+-- N . B . : The version downloaded is free but for personal use only . . . 
+
+Download page : ( Windows exclusivvfvs )
+https://www.helpndoc.com/download
+
+
+
+System Requirements : 
+
+System Requirements : 
+
+HelpNDoc exclusively runs on Windows operating systems. Recommended system requirements are:
+					-Windows Vista, Windows 7, Windows 8 or Windows 10
+					-512MB of RAM
+					-80MB of free disk space
+					-1024x768 screen resolution or higher
+					-Microsoft HTML Help Workshop is required to compile CHM help files
+					-Amazon KindleGen is required to compile Kindle compatible eBooks
+					-The Qt Framework is required to compile Qt Help files
+
+
+--- The software is uploades in the same repertory , size ( ~ ~ 20,7 MB ) 
+thanks 
+
+
