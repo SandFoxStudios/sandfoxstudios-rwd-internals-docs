@@ -6,7 +6,10 @@ NOTIFICATION !!!! THIS !§! IS !§! A !§! BÊTAS !§! VERSIONS !!!!!! BÊTAS VE
 
 VERSIONS : VERSION V0.0.1 RewindEngine documentations v0.0.1 [  BÊTAS ]
 
-
+ - UPDATE ! 
+		Due to maintanables and technocals and maintaintable problems , the adresse is moved , and the documenetation also is filled with old word documentationesssss ( introduction to rewind engine , documentations basics , documentations fasts , documentations basics , documentations resumedesssss , documentations fasts , tutorials , readme about the template game , and the usage of it , readme and assets in the repertory old links for match 3 , match 3 , readme and assets in the repertory old links for match 3 ,  , readme and assets in the repertory old links for match 3 , match 3 , verrrrrrrrrrrrrrrry old word ' s metadatas verrrry old words 's documentations fasts and simple that was in word , ... 
+ - UPDATE !  
+ 		Due to maintanables and technocals and maintaintable problems , the adresse is moved , and the documenetation also is filled with old word documentationesssss  : Update the location in the web adresse + add files + fill  somes sections and fill somes parts with old word documentations , . 
 
  - LINK ///// TO THE DOCUMENTAIONS :  é" sandfoxstudios-rwd-internals-docs "é //////////////////////////// ///////
 	
