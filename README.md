@@ -11,7 +11,13 @@ VERSIONS : VERSION V0.0.1 RewindEngine documentations v0.0.1 [  BÊTAS ]
  - UPDATE !  
  		Due to maintanables and technocals and maintaintable problems , the adresse is moved , and the documenetation also is filled with old word documentationesssss  : Update the location in the web adresse + add files + fill  somes sections and fill somes parts with old word documentations , . 
 
- - LINK ///// TO THE DOCUMENTAIONS :  é" sandfoxstudios-rwd-internals-docs "é //////////////////////////// ///////
+
+
+
+ - NEW LINK !!!!!! : 
+			URL N ° 1 : //////////  é" http://sandfoxstudios-rwd-internals-docs.epizy.com/html_v1.0.0.0/          "é /////// 
+
+ - OLD LINKS ///// TO THE DOCUMENTAIONS :  é" sandfoxstudios-rwd-internals-docs "é //////////////////////////// ///////
 	
 	      		URL N ° 1 : //////////  é" https://sandfoxstudios-rwd-internals-docs.sarasaber.com "é /////// 
 
